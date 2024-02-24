@@ -1,9 +1,9 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-260nw-1033853617.jpg)]
+![MasterHead](https://drive.google.com/file/d/1JPe3ipY0CUBNK0-Vc56eWX94rz3pQuF-/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
 <h3 align="center">"Passionate and proactive fresher with a knack for innovation and a drive for learning. I'm dedicated to crafting intuitive solutions and refining my skills through hands-on projects. Explore my repository to witness my journey in coding, where each project is a testament to my commitment to excellence and my eagerness to contribute to the world of technology. Let's connect and build something amazing together!"</h3>
 
-<img align="right" style="text-align: center; display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240223T050633Z&X-Amz-Expires=300&X-Amz-Signature=7bd0eb546640dd44a60b0be0f2426d1f41991c00619b4854c36097770f5cd116&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=588181932" width="366" height="366">
+<img align="" style="text-align:centre; display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="" height="">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthaksanskari" alt="sarthaksanskari" /></a> </p>
 
